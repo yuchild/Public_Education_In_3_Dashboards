@@ -1,4 +1,4 @@
-### Public Education In 3 Dashboards ###
+### Public Education In 3 Dashboards ### <h3>
 
 # Research Question #
 How does money change educational outcomes? Or are there other factors involved?
