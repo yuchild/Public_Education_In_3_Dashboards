@@ -1,4 +1,4 @@
-# Public Education In 3 Dashboards <h3>
+### Public Education In 3 Dashboards <h1>
 
 # Research Question <h1>
 How does money change educational outcomes? Or are there other factors involved?
@@ -18,6 +18,12 @@ What is happening to California and Texas? Both states have high enrollments Rev
 ![California, Texas, and New York Compairson:](https://github.com/yuchild/Public_Education_In_3_Dashboards/blob/master/Pics/rev_NAEP_exp_enroll.png)
 
 New York has lower a lower student enrollment number but not by much. What is similar about New York and Texas is state wide testing. To graduate high school Texas uses the TAKS and New York uses the Regents. California does not have a test requirement to graduate. For information about these tests see table below:
+
+|State|Test|Link|
+|---|
+|Texas|TAKS|[Link](https://en.wikipedia.org/wiki/State_of_Texas_Assessments_of_Academic_Readiness)|
+|New York|Regents|[Link](https://en.wikipedia.org/wiki/Regents_Examinations)|
+
 
 
 
