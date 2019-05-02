@@ -1,7 +1,9 @@
-# Public Education In 3 Dashboards <h2>
+# Public Education In 3 Dashboards <h3>
 
+# Research Question <h1>
 How does money change educational outcomes? Or are there other factors involved?
 
+# Executive Summary <h1>
 This study looks at the US Census data on Educational achievement for public schools. The NAEP (National Assessment for Educational Progress) program test Reading and Math achievement in both 4th and 8th grade in odd years to track educational progress. 
 
 The first pictures looks at NAEP Test by US States and Years (2005 to 2015): [Tableau Dashboard 1 of NAEP Data](https://public.tableau.com/profile/david2973#!/vizhome/NAEPScores2005to2015/NAEPScores?publish=yes)
@@ -14,6 +16,8 @@ The NEAP heatmap shows that scores are lower in the lower parts of the United St
 
 What is happening to California and Texas? Both states have high enrollments Revenues, and Expenditures. But Texas has a better outcome in terms of NAEP Scores compare to California. What is happening here? To help make a compairson, look at New York as a compairson. 
 ![California, Texas, and New York Compairson:](https://github.com/yuchild/Public_Education_In_3_Dashboards/blob/master/Pics/rev_NAEP_exp_enroll.png)
+
+New York has lower a lower student enrollment number but not by much. What is similar about New York and Texas is state wide testing. To graduate high school Texas uses the TAKS and New York uses the Regents. California does not have a test requirement to graduate. For information about these tests see table below:
 
 
 
