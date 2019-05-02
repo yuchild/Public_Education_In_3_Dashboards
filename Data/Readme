@@ -1,8 +1,6 @@
-# Data Files from Readme Discussion are as follows #
+Data Files from Readme Discussion are as follows
 
-| Tableau Dashboard | CSV File |
-| --- | --- | 
-| Tableau Dashboard 1 | race_breakdown_2004_2015.csv |
-| Tableau Dashboard 2 | states_all.csv |
-| Tableau Dashboard 3 | naep_scores_all.csv | 
-| Tableau Dashboard 4 | elsec15t.csv |
+Tableau Dashboard 1: race_breakdown_2004_2015.csv 
+Tableau Dashboard 2: states_all.csv
+Tableau Dashboard 3: naep_scores_all.csv
+Tableau Dashboard 4: elsec15t.csv
