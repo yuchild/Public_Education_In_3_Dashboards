@@ -13,7 +13,7 @@ A takeway here is that reading scores are lower than math scores and 4th grade s
 The NEAP heatmap shows that scores are lower in the lower parts of the United States. The focus in the following discussion will center on two states: California and Texas. Feel free to explore [Tableau Dashboard 2 of Revenues, NAEP Scores, Expenditures, and Enrollment](https://public.tableau.com/profile/david2973#!/vizhome/EnrollmentScoresRevenuesExpenditures/RevenueScoresExpenditureandEnrollment?publish=yes)
 
 What is happening to California and Texas? Both states have high enrollments Revenues, and Expenditures. But Texas has a better outcome in terms of NAEP Scores compare to California. What is happening here? To help make a compairson, look at New York as a compairson. 
-
+![California, Texas, and New York Compairson:](https://github.com/yuchild/Public_Education_In_3_Dashboards/blob/master/Pics/rev_NAEP_exp_enroll.png)
 
 
 
