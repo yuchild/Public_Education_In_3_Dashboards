@@ -27,7 +27,10 @@ New York has lower a lower student enrollment number but not by much. What is si
 
 So it seems states with exit exams for graduation perfrom better on the NAEP, no suprise there. However, is there a deeper connection with funding? Explore this Tableau dashboard on [Tableau Dashboard 3: Enrollment and Student Demographics](https://public.tableau.com/profile/david2973#!/vizhome/StudentDemographicsbyState/EnrollmentandStudentDemographics?publish=yes)
 
+Can we drill down even more to look at what those states are doing at the school district level? Explore this [Tableau Dashboard 4 on Per Pupil Spending](https://public.tableau.com/profile/david2973#!/vizhome/CensusDataByDistricts/PerPupilDashboard?publish=yes)
 
+# Conclusions #
+The data shows that education is tied to funding. Per pupil spending in California is highest in our disucssion about NAEP test results. A possible explaination is the graduation requirements of exit exams in Texas and New York that are not in place in California. 
 
-
-
+# Limitations and References #
+This study is a survey of data from [Kaggle](https://www.kaggle.com/noriuk/us-education-datasets-unification-project) and [US Census Bereau](https://www.census.gov/data/tables/2015/econ/school-finances/secondary-education-finance.html). Future studies will encorporate more longititudinal span of data from the US Census Bereau going back to 2005. 
