@@ -33,4 +33,4 @@ Can we drill down even more to look at what those states are doing at the school
 The data shows that education is tied to funding. Per pupil spending in California is highest in our disucssion about NAEP test results. A possible explaination is the graduation requirements of exit exams in Texas and New York that are not in place in California. 
 
 # Limitations and References #
-This study is a survey of data from [Kaggle](https://www.kaggle.com/noriuk/us-education-datasets-unification-project) and [US Census Bereau](https://www.census.gov/data/tables/2015/econ/school-finances/secondary-education-finance.html). Future studies will encorporate more longititudinal span of data from the US Census Bereau going back to 2005. 
+This study is a survey of data from [Kaggle](https://www.kaggle.com/noriuk/us-education-datasets-unification-project) and [US Census Bereau](https://www.census.gov/data/tables/2015/econ/school-finances/secondary-education-finance.html). Future studies will encorporate more longititudinal span of data from the US Census Bereau going back to 2005. Uploads of the SQL files used to query data for Tableau Dashboad 2 is on the way. 
